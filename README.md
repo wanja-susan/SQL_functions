@@ -1,2 +1,1 @@
-# SQL_functions
-In this file, I'm going to create a database, create tables, showcase various SQL aggregates, SQL clauses and use joins.
+This is a repository of all the SQL Queries I have solved
